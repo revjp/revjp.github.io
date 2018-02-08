@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>a portfolio | DAVE ESTES</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>Sometimes I go down rabbit holes</description>
+    <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>README</title>
+      <link>http://localhost:8080/articles/hello-world/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/hello-world/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/hello-world/1.png&quot; alt=&quot;logo&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;i-went-to-your-website-and-it-was-down-&quot;&gt;I went to your website and it was down.&lt;/h3&gt;
+&lt;p&gt;I’ve gone through about 9 different personal portfolio sites and about 6 different domain names. This is one of those sites. Here’s how I’m going to do this one a little bit differently.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&quot;the-experiment&quot;&gt;The experiment&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This site is currently hosted on &lt;a href=&quot;http://github.io&quot;&gt;github&lt;/a&gt;. The end goal of this site is to create a permanant and resillient portolio of my work. I am planning on doing this through the eventual use of &lt;a href=&quot;https://ipfs.io/&quot;&gt;IPFS&lt;/a&gt; and possibly utilizing a blockchain to handle DNS. Hopefully this will allow me to have my work in a permanent location that I can continue to point people to.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&quot;tools-&quot;&gt;Tools:&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Wintersmith: Static site generator&lt;/li&gt;
+&lt;li&gt;Github: Hosting solution until IPFS implimentation&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;IPFS: peer-to-peer method of storing and sharing hypermedia in a distributed file system.&lt;/del&gt; Not yet implimented.
++&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&quot;considerations&quot;&gt;Considerations&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The real experiment here for me is to see if I can find a solution that checks all of the boxes below:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;Cost - Control - Ease of use - Resilliancy&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Cost&lt;/strong&gt; : I am looking to do this for free. This one is simple. This should not be too hard as there are plenty of solutions out there that offer free web hosting. These have their caveats which are addressed below. For right now I am using a .tk domain (free).Coincidentally this is the same ccTLD that I used when I first got into web design and fiddling with websites about 16 years ago. I went from that to owning about 10 domain names. Funny how it has come full circle for the sake of science and frugality.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Control&lt;/strong&gt; : A domain is one thing but hosting is a where you really run into issues with this. Most free solutions come at the cost of having very little control over both the asthetic and security of your data. I believe I will be able find a solution that allows me to keep total control over my site and not have to give up my data in exchange for free hosting.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ease of Use&lt;/strong&gt; : Any solution that is viable would need to be accessable by anyone using a “regular” browser. This is mainly an issue of implimentation and will need to be explored as we get into a more complicated setup.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Resilliancy&lt;/strong&gt; : I am the type of person who will go wild on a website and then let it sit for 6 months. When I come back to it I still need it to be there. If I can set this up for free and host it correctly, the goal is a website I can set and forget. What I am trying to explore is the possibility of building a portfolio site that my kids can go back to and read long after I’m gone.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Let’s see where this takes us.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+  </channel>
+</rss>
