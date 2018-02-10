@@ -1,0 +1,28 @@
+{
+  "output": "../",
+
+  "locals": {
+    "url": "estes.tk",
+    "name": "D ∆ V E E S T E S",
+    "owner": "Dave Estes",
+    "description": "-.-.- "
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}

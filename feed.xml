@@ -1,20 +1,104 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>a portfolio | DAVE ESTES</title>
-    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>http://localhost:8080</link>
-    <description>Sometimes I go down rabbit holes</description>
-    <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
+    <title>D ∆ V E E S T E S</title>
+    <atom:link href="estes.tk/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>estes.tk</link>
+    <description>-.-.- </description>
+    <pubDate>Fri, 09 Feb 2018 00:00:00 -0500</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>README</title>
-      <link>http://localhost:8080/articles/hello-world/</link>
-      <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/hello-world/</guid>
+      <title>CMHA x DESIGN</title>
+      <link>estes.tk/articles/cmha/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">estes.tk/articles/cmha/</guid>
       <author></author>
-      <description>&lt;p&gt;&lt;img src=&quot;/articles/hello-world/1.png&quot; alt=&quot;logo&quot;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/cmha/1.jpeg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&quot;here-is-a-selection-of-my-design-work-&quot;&gt;Here is a selection of my design work.&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    <item>
+      <title>Pheye Nebula x DESIGN</title>
+      <link>estes.tk/articles/Cloud10/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">estes.tk/articles/Cloud10/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/Cloud10/Nebula.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&quot;here-is-a-selection-of-my-design-work-&quot;&gt;Here is a selection of my design work.&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    <item>
+      <title>Pheye Nebula x DESIGN</title>
+      <link>estes.tk/articles/PheyeNebula/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">estes.tk/articles/PheyeNebula/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/PheyeNebula/Nebula.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&quot;here-is-a-selection-of-my-design-work-&quot;&gt;Here is a selection of my design work.&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    <item>
+      <title>Pheye Labs x DESIGN</title>
+      <link>estes.tk/articles/PheyeLabs/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">estes.tk/articles/PheyeLabs/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/PheyeLabs/9.jpg&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+&lt;h6 id=&quot;branding-product-and-marketing-solutions-for-pheye-labs-&quot;&gt;Branding, product, and marketing solutions for Pheye Labs.&lt;/h6&gt;
+&lt;h6 id=&quot;pheye-labs-is-a-manufacturer-of-e-juice-in-connecticut-&quot;&gt;Pheye Labs is a manufacturer of E-juice in Connecticut.&lt;/h6&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Electronic cigarettes were like the wild west.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When the electronic cigarette market first took off, it was complete wild west. It was completely new industry with no precedent on how to approach the marketing.&lt;/p&gt;
+&lt;p&gt;This was a really fun endeavor as I got to handle the branding, marketing, and product design almost completely independantly. This was also a huge learning experience because before this, I had only ever done design for digital media.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;The bottle&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/PheyeLabs/1.jpg&quot; alt=&quot;2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;So Pheye Labs was going for a heady, futuristic look but it also needed to look clean. The product was something that people were going to be putting in their body and needed to appeal to the customer in a way that made them feel confident in it’s quality. It was made in lab conditions and we had to come up with a look that played well with that. It also could be dangerous if children got thier hands on it so we needed to make sure it didn’t look like something a kid would like.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/articles/PheyeLabs/2.jpg&quot; alt=&quot;3&quot;&gt;&lt;img src=&quot;/articles/PheyeLabs/12.png&quot; alt=&quot;4&quot;&gt;&lt;/p&gt;
+&lt;h6 id=&quot;so-we-went-for-a-space-medicine-look-&quot;&gt;So we went for a “Space Medicine” look.&lt;/h6&gt;
+</description>
+    </item>
+    <item>
+      <title>Pheye Nebula x DESIGN</title>
+      <link>estes.tk/articles/Rawberry/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">estes.tk/articles/Rawberry/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/Rawberry/Nebula.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&quot;here-is-a-selection-of-my-design-work-&quot;&gt;Here is a selection of my design work.&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    <item>
+      <title>README</title>
+      <link>estes.tk/articles/hello-world/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">estes.tk/articles/hello-world/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/hello-world/1.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
 &lt;h3 id=&quot;i-went-to-your-website-and-it-was-down-&quot;&gt;I went to your website and it was down.&lt;/h3&gt;
 &lt;p&gt;I’ve gone through about 9 different personal portfolio sites and about 6 different domain names. This is one of those sites. Here’s how I’m going to do this one a little bit differently.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/p&gt;
@@ -49,6 +133,28 @@
 &lt;p&gt;&lt;strong&gt;Let’s see where this takes us.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
+</description>
+    </item>
+    <item>
+      <title>select works x DESIGN</title>
+      <link>estes.tk/articles/Design/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">estes.tk/articles/Design/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/articles/Design/1.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&quot;here-is-a-selection-of-my-design-work-&quot;&gt;Here is a selection of my design work.&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/articles/Design/&quot;&gt;Pheye Nebula&lt;/a&gt; : Branding project for electronic cigarette asset fund.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/articles/Design/&quot;&gt;Pheye Labs&lt;/a&gt; : Branding and package design for E-Juice company.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/articles/Design/&quot;&gt;Rawberry&lt;/a&gt; : Branding, marketing, web and package design for E-juice company.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/articles/Design/&quot;&gt;Cloud 10 Brands&lt;/a&gt; : Package design for E-juice manufacturing company.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/articles/Design/&quot;&gt;CT Morgan Horse Association&lt;/a&gt; : Logo re-design for horse organization.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/articles/Design/&quot;&gt;Little Alcatraz&lt;/a&gt; : Illustration for mobile game.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/articles/Design/&quot;&gt;Cloud 10 Brands&lt;/a&gt; : Package design for E-juice manufacturing company.&lt;/p&gt;
 </description>
     </item>
   </channel>
