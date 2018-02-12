@@ -8,9 +8,9 @@ h1, h2, h3, h4, h5, h6, p, body, a, img, ul, ol, blockquote, pre {
 }
 
 body {
-  height: 100%
-  font-family: 'Fira Sans', sans-sarif;
-  font-size: 21px;
+  height: 100%;
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 16px;
   line-height: 1.52;
   color: #364958;
   background-color: #94ecbe;
@@ -18,6 +18,8 @@ body {
 background: radial-gradient(circle farthest-corner at top right, #ffffff 0%, #ffffff 40%, #94ecbe 20%);
 background: -webkit-radial-gradient(circle farthest-corner at top right, #ffffff 0%, #ffffff 40%, #94ecbe 20%);
 background: -moz-radial-gradient(circle farthest-corner at bottom left, #ffffff 0%, #ffffff 40%, #94ecbe 20%);
+background-attachment: fixed;
+
   text-rendering: optimizeLegibility;
 }
 
@@ -46,9 +48,9 @@ a {
 			1px -1px 0 #94ecbe,
 			-1px 1px 0 #94ecbe,
 		        1px 1px 0 #94ecbe,
-		        2px 2px 0px #94ecbe;
-		        3px 3px 0px #94ecbe;
-		        4px 4px 0px #94ecbe;
+		        2px 2px 0px #94ecbe,
+		        3px 3px 0px #94ecbe,
+		        4px 4px 0px #94ecbe,
 			5px 5px 0px #94ecbe;
 }
 
@@ -59,10 +61,17 @@ a:hover {
 			1px -1px 0 #94ecbe,
 			-1px 1px 0 #94ecbe,
 		        1px 1px 0 #94ecbe,
-		        2px 2px 0px #94ecbe;
-		        3px 3px 0px #94ecbe;
-		        4px 4px 0px #94ecbe;
-			5px 5px 0px #94ecbe;
+		        2px 2px 0px #94ecbe,
+		        3px 3px 0px #94ecbe,
+		        4px 4px 0px #94ecbe,
+			      5px 5px 0px #94ecbe,
+            6px 6px 0 #94ecbe,
+            7px 6px 0px #94ecbe,
+            6px 7px 0 #94ecbe,
+            7px 7px 0px #94ecbe,
+            8px 7px 0 #94ecbe,
+            7px 8px 0px #94ecbe;
+
 }
 
 p {
@@ -109,6 +118,7 @@ li {
 }
 
 blockquote {
+  border-left: 20px solid #fffa86;
   margin: 1.2em 3em;
   padding-left: 1em;
   font-style: italic;
@@ -116,10 +126,30 @@ blockquote {
 
 hr {
   border: 0;
-  border-top: 1px dashed #fffa86;
+  border-top: 10px dashed #fffa86;
   height: 0;
   margin: 1.6em 0;
 }
+
+/*column split */
+
+.leftcol {
+    border-top: 10px dashed #fffa86;
+    float: left;
+    width: 50%;
+    align-content: center;
+    text-align: center;
+}
+
+.rightcol {
+    border-left: 10px dashed #fffa86;
+    border-bottom: 10px dashed #fffa86;
+    margin-left: 50%;
+    align-content: center;
+    text-align: center;
+}
+
+
 
 /* page header */
 
@@ -139,34 +169,34 @@ hr {
 			1px -1px 0 #94ecbe,
 			-1px 1px 0 #94ecbe,
 		        1px 1px 0 #94ecbe,
-		        2px 2px 0px #94ecbe;
-		        3px 3px 0px #94ecbe;
-		        4px 4px 0px #94ecbe;
+		        2px 2px 0px #94ecbe,
+		        3px 3px 0px #94ecbe,
+		        4px 4px 0px #94ecbe,
 			5px 5px 0px #94ecbe;
 }
 
 .header a {
   text-decoration: none;
-  text-shadow:
 
-			-1px -1px 0 #94ecbe,
-			1px -1px 0 #94ecbe,
-			-1px 1px 0 #94ecbe,
-		        1px 1px 0 #94ecbe,
-		        2px 2px 0px #94ecbe;
-		        3px 3px 0px #94ecbe;
-		        4px 4px 0px #94ecbe;
-			5px 5px 0px #94ecbe;
 
 }
 
 .header a:hover {
   text-decoration: overline;
   color: #fffa86;
+  text-shadow: -1px -1px 0 #94ecbe,
+			1px -1px 0 #94ecbe,
+			-1px 1px 0 #94ecbe,
+		        1px 1px 0 #94ecbe,
+		        2px 2px 0px #94ecbe;
+		        3px 3px 0px #94ecbe;
+		        4px 4px 0px #94ecbe;
+			      5px 5px 0px #94ecbe;
+
 }
 
 .header .author {
-  font-family: 'Merriweather', serif;
+font-family: 'Ubuntu Mono', monospace;
   font-variant: small-caps;
   text-transform: lowercase;
   text-rendering: auto;
@@ -183,7 +213,7 @@ hr {
 }
 
 body.article-detail > header h1 {
-  font-size: 1.5em;
+  font-size: 1em;
   font-style: italic;
   font-weight: 400;
   margin-bottom: -0.2em;
@@ -249,7 +279,7 @@ footer .copy, footer .copy a {
 }
 
 .article header {
-  border-top: 1px dashed #d2d2d2;
+  border-top: 5px solid #fffa86;
   margin-bottom: .5em;
 }
 
@@ -285,7 +315,7 @@ footer .copy, footer .copy a {
 }
 
 .article.intro .content p {
-
+  font-size: 0.8em;
   font-size: 0.6em;
   margin-left:.3em;
 }
@@ -303,7 +333,7 @@ footer .copy, footer .copy a {
   margin-top: 1.3em;
   margin-left: auto;
   margin-right: auto;
-  border: 10px solid #fff;
+
 
   transform: rotate(-4deg) skew(-1deg) translate(1px,0px);
 -webkit-transform: rotate(-4deg) skew(-1deg) translate(1px,0px);
@@ -311,8 +341,18 @@ footer .copy, footer .copy a {
 
 }
 
-.more, .date {
-  font-family: 'Merriweather', serif;
+.more {
+  font-family: 'Julius Sans One', sans-serif;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  font-weight: 400;
+  text-rendering: auto;
+  letter-spacing: 1px;
+  font-size: 2em;
+}
+
+.date {
+  font-family: 'Julius Sans One', sans-serif;
   font-variant: small-caps;
   text-transform: lowercase;
   font-weight: 400;
@@ -361,7 +401,7 @@ footer .copy, footer .copy a {
 .archive .year-label,
 .archive .month-label{
   width: 4em;
-  font-family: 'Merriweather', serif;
+font-family: 'Ubuntu Mono', monospace;
   font-variant: small-caps;
   text-transform: lowercase;
   font-weight: 400;
@@ -386,7 +426,7 @@ footer .copy, footer .copy a {
 /* code styling */
 
 code {
-  font-family: 'Anonymous Pro', monospace;
+  font-family: 'Montserrat', sans-serif;
   font-size: 0.85em;
   color: #000;
 }

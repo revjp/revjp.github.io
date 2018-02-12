@@ -1,5 +1,5 @@
 ---
-title: README
+title: /README
 author: dave
 date: 02-08-2018
 template: article.jade
